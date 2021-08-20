@@ -1,2 +1,2 @@
 # Parkinsons Disease Classification
-Our semester project for Data Mining
+Semester project for Data Mining
